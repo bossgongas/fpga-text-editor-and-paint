@@ -3,6 +3,10 @@
 This repository contains two digital systems developed in VHDL and deployed on an FPGA board (Altera DE2):  
 a **Text Editor** and a **Graphics Editor**, both rendered on a VGA display and controlled via keyboard or mouse.
 
+<img width="316" alt="Captura de ecrã 2025-07-05 111201" src="https://github.com/user-attachments/assets/7ccc7a73-f4c5-4d88-8ff8-e72efe6417e4" />
+<img width="308" alt="Captura de ecrã 2025-07-05 111303" src="https://github.com/user-attachments/assets/1376fac6-1fd7-44c2-b3c5-2783c061f68c" />
+
+
 > 📚 **Course**: Digital Systems Design 
 > 🏫 **Institution**: Universidade de Coimbra – DEEC  
 > 📅 **Year**: 2023/2024  
