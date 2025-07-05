@@ -13,18 +13,20 @@ a **Text Editor** and a **Graphics Editor**, both rendered on a VGA display and 
 ## 🧩 Project Structure
 
 digital-editors-fpga:
-  README.md
-  docs:
-    - PSD_Editor_Texto_2020238997_2020228071.pdf  # Text Editor report
-    - PSD_Editor_Grafico_2020238997_2020228071.pdf  # Graphics Editor report
-    - PSD_LAB6_2022_23.pdf  # Project prompt
+  - README.md
+  - docs:
+    - PSD_Report_Editor_Texto.pdf  # Text Editor report
+    - PSD_Report_Editor_Grafico.pdf  # Graphics Editor report
+    - PSD_Project.pdf  # Project prompt
   text_editor:
-    - overview.png  # Top-level view (from report)
+    - top_level.png  # Top-level view (from report)
+    - ... .png # Other images
     - text_editor.zip  # QuartusII project files
   graphics_editor:
-    - overview.png  # Top-level view (from report)
+    - top_level.png  # Top-level view (from report)
+    - ... .png # Other images
     - graphics_editor.zip  # QuartusII project files
-  demos: []
+  demos: 
 
 ---
 
