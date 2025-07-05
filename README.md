@@ -3,37 +3,28 @@
 This repository contains two digital systems developed in VHDL and deployed on an FPGA board (Altera DE2):  
 a **Text Editor** and a **Graphics Editor**, both rendered on a VGA display and controlled via keyboard or mouse.
 
-> 📚 **Course**: Projeto de Sistemas Digitais  
+> 📚 **Course**: Digital Systems Design 
 > 🏫 **Institution**: Universidade de Coimbra – DEEC  
 > 📅 **Year**: 2023/2024  
-> 👥 **Authors**: Gonçalo Bastos (2020238997), Leonardo Cordeiro (2020228071)
+> 👥 **Authors**: Gonçalo Bastos - eusoudebastos@gmail.com , Leonardo Cordeiro - leoleocordeiro@gmail.com
 
 ---
 
 ## 🧩 Project Structure
 
-digital-editors-fpga/
-│
-├── README.md
-├── docs/
-│ ├── PSD_Editor_Texto_2020238997_2020228071.pdf # Text Editor report
-│ ├── PSD_Editor_Grafico_2020238997_2020228071.pdf # Graphics Editor report
-│ └── PSD_LAB6_2022_23.pdf # Project prompt
-│
-├── text_editor/
-│ ├── src/ # VHDL modules
-│ ├── overview.png # Top-level view (from report)
-│ └── text_editor.zip # QuartusII project files
-│
-├── graphics_editor/
-│ ├── src/ # VHDL modules
-│ ├── overview.png # Top-level view (from report)
-│ └── graphics_editor.zip # QuartusII project files
-│
-└── media/
-├── demo_text.mp4
-└── demo_graphics.mp4
-
+digital-editors-fpga:
+  README.md
+  docs:
+    - PSD_Editor_Texto_2020238997_2020228071.pdf  # Text Editor report
+    - PSD_Editor_Grafico_2020238997_2020228071.pdf  # Graphics Editor report
+    - PSD_LAB6_2022_23.pdf  # Project prompt
+  text_editor:
+    - overview.png  # Top-level view (from report)
+    - text_editor.zip  # QuartusII project files
+  graphics_editor:
+    - overview.png  # Top-level view (from report)
+    - graphics_editor.zip  # QuartusII project files
+  demos: []
 
 ---
 
