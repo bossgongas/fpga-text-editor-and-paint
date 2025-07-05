@@ -16,15 +16,15 @@ a **Text Editor** and a **Graphics Editor**, both rendered on a VGA display and 
     - PSD_Report_Editor_Texto.pdf  # Text Editor report
     - PSD_Report_Editor_Grafico.pdf  # Graphics Editor report
     - PSD_Project.pdf  # Project prompt
-  text_editor:
+  - text_editor:
     - top_level.png  # Top-level view (from report)
     - ... .png # Other images
     - text_editor.zip  # QuartusII project files
-  graphics_editor:
+  - graphics_editor:
     - top_level.png  # Top-level view (from report)
     - ... .png # Other images
     - graphics_editor.zip  # QuartusII project files
-  demo_video:
+  - demo_video:
     - MiniProjetos_PSD.mp4 # Demonstration Video of both projects 
 
 ---
