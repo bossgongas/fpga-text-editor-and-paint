@@ -77,10 +77,8 @@ Each project includes a top-level view image in its respective folder (from the 
 
 ## 🎥 Demos
 
-Demo videos demonstrating editor functionality are available in the `/media` folder:
-- `demo_text.mp4`: Text input, backspace, enter and cursor movements
-- `demo_graphics.mp4`: Freehand drawing and color switching
-
+Demo videos demonstrating editor functionality are available in the `/demo_video` folder:
+- `MiniProjetos_PSD.mp4`: Text input, backspace, enter and cursor movements & Freehand drawing and color switching
 ---
 
 ## 📌 Notes
