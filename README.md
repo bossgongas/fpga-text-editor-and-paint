@@ -11,8 +11,6 @@ a **Text Editor** and a **Graphics Editor**, both rendered on a VGA display and 
 ---
 
 ## 🧩 Project Structure
-
-digital-editors-fpga:
   - README.md
   - docs:
     - PSD_Report_Editor_Texto.pdf  # Text Editor report
@@ -26,7 +24,8 @@ digital-editors-fpga:
     - top_level.png  # Top-level view (from report)
     - ... .png # Other images
     - graphics_editor.zip  # QuartusII project files
-  demos: 
+  demo_video:
+    - MiniProjetos_PSD.mp4 # Demonstration Video of both projects 
 
 ---
 
